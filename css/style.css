@@ -2,6 +2,13 @@ body {
   background-color: black;
   color: aliceblue;
   font-size: 50px;
-  padding-bottom: 5cm;
-  
+  padding-bottom: 15cm;
+}
+
+p {
+    color: white;
+}
+
+img {
+    size: 1cm;
 }
