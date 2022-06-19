@@ -10,5 +10,11 @@ p {
 }
 
 img {
-    size: 1cm;
+        size:10px;
+}
+
+div {
+    background-color:rgb(248, 248, 248);
+    width: 275px;
+    height: 300px;
 }
